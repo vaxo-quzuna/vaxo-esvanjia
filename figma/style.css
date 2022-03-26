@@ -1,0 +1,59 @@
+body {
+    background:linear-gradient(to right, #053e8b, #3a175b);
+}
+.x {
+    background:linear-gradient(to right, #053e8b, #3a175b);
+    
+}
+.mark {
+    font-size: 30px !important;
+    margin-left: 30px;
+    background: none !important;
+}
+a {
+    font-size: 20px;
+    color: white !important;
+}
+ul {
+    margin: auto !important;
+    
+}
+li {
+    margin: auto !important;
+    margin-left: 50px !important;
+}
+.main {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.kalbasi {
+    font-size: 72px;
+    background: linear-gradient(to right,#23dff8, #f30785);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p {
+    width: 50%;
+    text-align: center;
+}
+.main button {
+    width: 200px;
+    background:none;
+    color: white;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid linear-gradient(to right, #12c3db, #cb0972);
+}
+.kalb {
+    margin-left: 15px;
+    color: red;
+}
+.jn {
+    width: 150px;
+    border: 3px solid green;
+    border-radius: 50px !important;
+}
